@@ -18,3 +18,5 @@ Report issues on the GitHub Issues page.
 
 License
 MIT License.
+
+NOTE : Try and Test in a Survivle Worled BEFORE testing in a server , this is a important step .
